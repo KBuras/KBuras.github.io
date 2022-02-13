@@ -40,7 +40,7 @@
         createPlatform(235, 200); //top middle
         createPlatform(100, 120, 0.2,) //top left
         createPlatform(125, 430, 0.6); //left
-        createPlatform(800, 600, 0,3, 20); //right
+        createPlatform(800, 400, 0,3, 20); //right
         createPlatform(500, 500, 0.2, 6) //bm
         createPlatform(650, 400, 0.2)
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
