@@ -41,9 +41,10 @@
         createPlatform(115, 120, 0.2,) //top left
         createPlatform(125, 430, 0.6); //left
         createPlatform(800, 600, 0,3, 20); //r
-        createPlatform(500, 700, 0.2, 6) //bm
-        createPlatform(650, 415, 0.2) //floaty right
-        createPlatform(800, 375, 0.2) //right top
+        createPlatform(500, 400, 0.2, 6) //bm
+        createPlatform(650, 415, 0.2) //floaty left
+        createPlatform(800, 375, 0.2) //right floaty
+        createPlatform(700, 200, 0.2) //middle floaty
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     }
