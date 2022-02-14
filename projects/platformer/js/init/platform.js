@@ -43,8 +43,8 @@
         createPlatform(800, 600, 0,3, 20); //r
         createPlatform(500, 475, 0.2, 5) //bm
         createPlatform(650, 415, 0.2) //floaty left
-        createPlatform(800, 375, 0.2) //right floaty
-        createPlatform(700, 200, 0.2) //middle floaty
+        createPlatform(800, 380, 0.2) //right floaty
+        createPlatform(700, 220, 0.2) //middle floaty
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     }
